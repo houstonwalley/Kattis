@@ -1,11 +1,3 @@
-/**
- *Houston Walley
- *09/04/2019
- *1.7
- *
- *Baby Bites
- */
-
 import java.util.Scanner;
 
 public class BabyBites {
