@@ -1,11 +1,3 @@
-/**
- *Houston Walley
- *09/05/2019
- *1.2
- *
- *Dice Cup
- */
-
 import java.util.Scanner;
 import java.util.HashMap;
 
