@@ -1,11 +1,3 @@
-/**
- *Houston Walley
- *09/04/2019
- *1.2
- *
- *Quality-Adjusted Life-Year
- */
-
 import java.util.Scanner;
 
 public class Qaly {
