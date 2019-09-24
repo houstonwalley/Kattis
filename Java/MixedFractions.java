@@ -1,11 +1,3 @@
-/**
- *Houston Walley
- *09/04/2019
- *1.4
- *
- *Mixed Fractions
- */
-
 import java.util.Scanner;
 
 public class MixedFractions {
