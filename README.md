@@ -46,6 +46,7 @@ HissingMic.py : https://open.kattis.com/problems/hissingmicrophone
 HotHike.py : https://open.kattis.com/problems/hothike  
 IsItHalloween.py : https://open.kattis.com/problems/isithalloween  
 JointAttack.py : https://open.kattis.com/problems/jointattack  
+JudgingMoose.py : https://open.kattis.com/problems/judgingmoose    
 Kamija.py : https://open.kattis.com/problems/kemija08  
 Ladder.py : https://open.kattis.com/problems/ladder  
 LastFactorialDigit.py : https://open.kattis.com/problems/lastfactorialdigit  
