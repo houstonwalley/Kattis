@@ -55,6 +55,7 @@ Oddities.py : https://open.kattis.com/problems/oddities
 OneChicken.py : https://open.kattis.com/problems/onechicken  
 Pet.py : https://open.kattis.com/problems/pet  
 Planina.py : https://open.kattis.com/problems/planina  
+PokerHand.py : https://open.kattis.com/problems/pokerhand  
 Pot.py : https://open.kattis.com/problems/pot  
 ProvnGold.py : https://open.kattis.com/problems/provincesandgold  
 R2.py : https://open.kattis.com/problems/r2  
