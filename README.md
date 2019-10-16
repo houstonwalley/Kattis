@@ -40,6 +40,7 @@ Filip.py : https://open.kattis.com/problems/filip
 FizzBuzz.py : https://open.kattis.com/problems/fizzbuzz  
 GoatRope.py : https://open.kattis.com/problems/goatrope  
 GrassSeedsinc.py : https://open.kattis.com/problems/grassseed  
+Grid.py : https://open.kattis.com/problems/grid    
 HangingOut.py : https://open.kattis.com/problems/hangingout  
 HeartRate.py : https://open.kattis.com/problems/heartrate  
 HissingMic.py : https://open.kattis.com/problems/hissingmicrophone  
