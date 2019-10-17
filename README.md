@@ -58,6 +58,7 @@ NastyHacks.py : https://open.kattis.com/problems/nastyhacks
 NineKnights.py : https://open.kattis.com/problems/nineknights  
 Oddities.py : https://open.kattis.com/problems/oddities  
 OneChicken.py : https://open.kattis.com/problems/onechicken  
+PeaSoup.py : https://open.kattis.com/problems/peasoup    
 Pet.py : https://open.kattis.com/problems/pet  
 Planina.py : https://open.kattis.com/problems/planina  
 PokerHand.py : https://open.kattis.com/problems/pokerhand  
