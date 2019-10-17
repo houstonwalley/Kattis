@@ -26,6 +26,7 @@ AnthonyAndDiablo.py : https://open.kattis.com/problems/anthonyanddiablo
 Apaxians.py : https://open.kattis.com/problems/apaxiaaans  
 Avion.py : https://open.kattis.com/problems/avion  
 BatterUp.py : https://open.kattis.com/problems/batterup  
+Beehives.py : https://open.kattis.com/problems/beehives    
 BeenEverywhereMan.py : https://open.kattis.com/problems/everywhere  
 Bela.py : https://open.kattis.com/problems/bela  
 Bijele.py : https://open.kattis.com/problems/bijele  
