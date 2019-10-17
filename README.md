@@ -22,6 +22,7 @@ UnlockPattern.java : https://open.kattis.com/problems/unlockpattern
 Python:  
 AlphabetSpam.py : https://open.kattis.com/problems/alphabetspam  
 AmazingHumanCannonball.py : https://open.kattis.com/problems/humancannonball2  
+AnthonyAndDiablo.py : https://open.kattis.com/problems/anthonyanddiablo    
 Apaxians.py : https://open.kattis.com/problems/apaxiaaans  
 Avion.py : https://open.kattis.com/problems/avion  
 BatterUp.py : https://open.kattis.com/problems/batterup  
@@ -60,8 +61,10 @@ Pet.py : https://open.kattis.com/problems/pet
 Planina.py : https://open.kattis.com/problems/planina  
 PokerHand.py : https://open.kattis.com/problems/pokerhand  
 Pot.py : https://open.kattis.com/problems/pot  
+PrincessPeach.py : https://open.kattis.com/problems/princesspeach  
 ProvnGold.py : https://open.kattis.com/problems/provincesandgold  
 R2.py : https://open.kattis.com/problems/r2  
+Recount.py : https://open.kattis.com/problems/recount  
 RedRover.py : https://open.kattis.com/problems/redrover  
 ReversedBinary.py : https://open.kattis.com/problems/reversebinary  
 RoamingRomans.py : https://open.kattis.com/problems/romans  
