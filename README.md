@@ -1,6 +1,6 @@
 These are problems solved from open.kattis.com. Some of these problems are done in Java and others are done in Python 3. These are mostly to practice for competitive programming team. These help to develop my ability to come up with quick solutions to problems. Although it is bad practice to have variable names that are not discriptive, most of these solutions will have short variable names that mean nothing. This is because it is quicker than typing out real variable names. Below you will find the names of the problems I have solved so far and a link to their discription.
 
-**Java:**  
+# **Java:**  
 [Autoti.java](https://open.kattis.com/problems/autori)  
 [BabyBites.java](https://open.kattis.com/problems/babybites)  
 [Carrots.java](https://open.kattis.com/problems/carrots)  
@@ -19,7 +19,7 @@ These are problems solved from open.kattis.com. Some of these problems are done 
 [TimeLopp.java](https://open.kattis.com/problems/timeloop)  
 [UnlockPattern.java](https://open.kattis.com/problems/unlockpattern)  
 
-**Python:**  
+# **Python:**  
 [AlphabetSpam.py](https://open.kattis.com/problems/alphabetspam)  
 [AmazingHumanCannonball.py](https://open.kattis.com/problems/humancannonball2)  
 [AnthonyAndDiablo.py](https://open.kattis.com/problems/anthonyanddiablo)  
