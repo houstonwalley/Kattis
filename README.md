@@ -68,6 +68,7 @@ These are problems solved from open.kattis.com. Some of these problems are done 
 [PrincessPeach.py](https://open.kattis.com/problems/princesspeach)  
 [ProvnGold.py](https://open.kattis.com/problems/provincesandgold)  
 [R2.py](https://open.kattis.com/problems/r2)  
+[Railroad.py](https://open.kattis.com/problems/railroad2)  
 [RaggedRight.py](https://open.kattis.com/problems/raggedright)  
 [Recount.py](https://open.kattis.com/problems/recount)  
 [RedRover.py](https://open.kattis.com/problems/redrover)  
