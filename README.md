@@ -1,6 +1,6 @@
 These are problems solved from open.kattis.com. Problems are done in C, C++, Java, and Python 3. These are mostly to practice for competitive programming team. These help to develop my ability to come up with quick solutions to problems. Although it is bad practice to have variable names that are not discriptive, most of these solutions will have short variable names that mean nothing. This is because it is quicker than typing out real variable names. Below you will find the names of the problems I have solved so far and a link to their discription.
 
-#**C:**
+# **C:**
 [LicenseToLaunch.c](https://open.kattis.com/problems/licensetolaunch)
 
 # **C++:**  
