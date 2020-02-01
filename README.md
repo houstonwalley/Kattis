@@ -56,6 +56,7 @@ These are problems solved from open.kattis.com. Problems are done in C, C++, Jav
 [HeartRate.py](https://open.kattis.com/problems/heartrate)  
 [HissingMic.py](https://open.kattis.com/problems/hissingmicrophone)  
 [HotHike.py](https://open.kattis.com/problems/hothike)  
+[ICPCAwards.py](https://open.kattis.com/problems/icpcawards)  
 [IsItHalloween.py](https://open.kattis.com/problems/isithalloween)  
 [JointAttack.py](https://open.kattis.com/problems/jointattack)  
 [JudgingMoose.py](https://open.kattis.com/problems/judgingmoose)  
