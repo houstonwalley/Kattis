@@ -93,6 +93,7 @@ These are problems solved from open.kattis.com. Problems are done in C, C++, Jav
 [SumSquaredDigits.py](https://open.kattis.com/problems/sumsquareddigits)  
 [SymmetricOrder.py](https://open.kattis.com/problems/symmetricorder)  
 [TaisFormula.py](https://open.kattis.com/problems/taisformula)  
+[TransitWoes.py](https://open.kattis.com/problems/transitwoes)  
 [WhatDoesTheFoxSay.py](https://open.kattis.com/problems/whatdoesthefoxsay)  
 [WhereInternet.py](https://open.kattis.com/problems/wheresmyinternet)  
 [WizardofOdds.py](https://open.kattis.com/problems/wizardofodds)  
