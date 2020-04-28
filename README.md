@@ -78,6 +78,7 @@ These are problems solved from open.kattis.com. Problems are done in C, C++, Jav
 [Pot.py](https://open.kattis.com/problems/pot)  
 [PrincessPeach.py](https://open.kattis.com/problems/princesspeach)  
 [ProvnGold.py](https://open.kattis.com/problems/provincesandgold)  
+[QuickEstimates.py](https://open.kattis.com/problems/quickestimate)  
 [R2.py](https://open.kattis.com/problems/r2)  
 [RaggedRight.py](https://open.kattis.com/problems/raggedright)  
 [Railroad.py](https://open.kattis.com/problems/railroad2)  
