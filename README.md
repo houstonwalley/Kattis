@@ -89,6 +89,7 @@ These are problems solved from open.kattis.com. Problems are done in C, C++, Jav
 [Skener.py](https://open.kattis.com/problems/skener)  
 [Sort.py](https://open.kattis.com/problems/sort)  
 [SortOfSorting.py](https://open.kattis.com/problems/sortofsorting)  
+[StackingCups.py](https://open.kattis.com/problems/cups)  
 [StarArrangements.py](https://open.kattis.com/problems/stararrangements)  
 [SumSquaredDigits.py](https://open.kattis.com/problems/sumsquareddigits)  
 [SymmetricOrder.py](https://open.kattis.com/problems/symmetricorder)  
