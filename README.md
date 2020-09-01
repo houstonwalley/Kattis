@@ -65,6 +65,7 @@ These are problems solved from open.kattis.com. Problems are done in C, C++, Jav
 [Ladder.py](https://open.kattis.com/problems/ladder)  
 [LastFactorialDigit.py](https://open.kattis.com/problems/lastfactorialdigit)  
 [LawnMower.py](https://open.kattis.com/problems/lawnmower)  
+[Modulo.py](https://open.kattis.com/problems/modulo)  
 [NastyHacks.py](https://open.kattis.com/problems/nastyhacks)  
 [NineKnights.py](https://open.kattis.com/problems/nineknights)  
 [NoDup.py](https://open.kattis.com/problems/nodup)  
