@@ -72,6 +72,7 @@ These are problems solved from open.kattis.com. Problems are done in C, C++, Jav
 [NumberTree.py](https://open.kattis.com/problems/numbertree)  
 [Oddities.py](https://open.kattis.com/problems/oddities)  
 [OneChicken.py](https://open.kattis.com/problems/onechicken)  
+[Parking.py](https://open.kattis.com/problems/parking2)  
 [PeaSoup.py](https://open.kattis.com/problems/peasoup)  
 [Pet.py](https://open.kattis.com/problems/pet)  
 [Planina.py](https://open.kattis.com/problems/planina)  
